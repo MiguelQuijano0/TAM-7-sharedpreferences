@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TAM-7-sharedpreferences</string>
+    <string name="txt_mail">Ingrese su correo</string>
+    <string name="Button">Guardar</string>
+</resources>
